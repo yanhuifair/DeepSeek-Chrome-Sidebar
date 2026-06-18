@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "DeepSeek Sidebar",
+  "version": "0.0.9",
+  "description": "在 Chrome 侧边栏中打开 DeepSeek 官方聊天页面，Cookie 自动登录。",
+  "permissions": ["sidePanel", "declarativeNetRequest", "cookies"],
+  "host_permissions": ["https://chat.deepseek.com/*"],
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "remove_frame_blockers",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "DeepSeek Sidebar",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

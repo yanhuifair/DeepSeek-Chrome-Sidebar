@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+
+# Chrome extension metadata (auto-generated)
+_metadata/
+
+# Store assets (not part of the extension package)
+store-assets/
+
+# Privacy policy (hosted separately)
+privacy-policy.html
+
+# macOS
+.DS_Store
+
+# Package output
+*.zip
+*.crx
+*.pem
+
+# IDE
+.vscode/
+.idea/
