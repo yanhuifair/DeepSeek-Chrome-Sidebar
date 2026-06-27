@@ -1,6 +1,6 @@
-# DeepSeek Sidebar
+# DeepSeek Chrome Sidebar
 
-[![GitHub](https://img.shields.io/badge/GitHub-yanhuifair%2Fdeepseek__chrome__sidebar-blue?logo=github)](https://github.com/yanhuifair/deepseek_chrome_sidebar)
+[![GitHub](https://img.shields.io/badge/GitHub-yanhuifair%2FDeepSeek--Chrome--Sidebar-blue?logo=github)](https://github.com/yanhuifair/DeepSeek-Chrome-Sidebar)
 
 在 Chrome 侧边栏中使用 DeepSeek，无需切换标签页。
 
@@ -25,7 +25,7 @@ Open DeepSeek in Chrome's side panel — no more tab switching.
 
 ### 开发者模式手动安装
 
-1. `git clone https://github.com/yanhuifair/deepseek_chrome_sidebar.git`
+1. `git clone https://github.com/yanhuifair/DeepSeek-Chrome-Sidebar.git`
 2. 打开 `chrome://extensions/`，开启右上角「开发者模式」
 3. 点击「加载已解压的扩展程序」，选择项目文件夹
 
