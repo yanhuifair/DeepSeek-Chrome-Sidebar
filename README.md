@@ -3,6 +3,7 @@
 [中文文档](README-zh.md)
 
 [![GitHub](https://img.shields.io/badge/GitHub-yanhuifair%2FDeepSeek--Chrome--Sidebar-blue?logo=github)](https://github.com/yanhuifair/DeepSeek-Chrome-Sidebar)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 Open DeepSeek in Chrome's side panel — no more tab switching.
 
@@ -71,3 +72,9 @@ This extension does **NOT collect, store, or transmit** any user data. See [Priv
 ├── store-assets/          # Store assets (screenshots, copy)
 └── privacy-policy.html    # Privacy policy
 ```
+
+---
+
+## 📄 License
+
+MIT © [yanhuifair](https://github.com/yanhuifair)

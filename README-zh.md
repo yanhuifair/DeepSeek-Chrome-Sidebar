@@ -3,6 +3,7 @@
 [English](README.md)
 
 [![GitHub](https://img.shields.io/badge/GitHub-yanhuifair%2FDeepSeek--Chrome--Sidebar-blue?logo=github)](https://github.com/yanhuifair/DeepSeek-Chrome-Sidebar)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 在 Chrome 侧边栏中使用 DeepSeek，无需切换标签页。
 
@@ -71,3 +72,9 @@
 ├── store-assets/          # 商店素材（截图、文案）
 └── privacy-policy.html    # 隐私政策
 ```
+
+---
+
+## 📄 许可证
+
+MIT © [yanhuifair](https://github.com/yanhuifair)
